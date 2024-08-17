@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 100;
+    padding: 100;
+    background-color: #3d3e42;
+
+
+}
+.mainContainer{
+    background-color: #34353b;
+
+
+    color: white;
+    display: flex;
+    margin: 50px;
+    padding: 50px;
+
+}
+
+.description{
+    margin: 10px;
+}
+.descriptionHeading{
+    color: #fec86a;
+    font-weight: 900;
+    font-size: xx-large;
+}
+
+.videoContainer{
+    width: 50%;
+}
+
+.link{
+    float: inline-end;
+}
+
+.data {
+    background-color: #34353b;
+    color: white;
+    margin: 50px;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column; /* Ensures that child elements are stacked vertically */
+}
+
+
+.dataHeading{
+    color: #fec86a;
+    font-weight: 900;
+    font-size: xx-large;
+}
