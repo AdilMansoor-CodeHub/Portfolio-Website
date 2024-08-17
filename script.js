@@ -17,31 +17,31 @@ document.addEventListener('DOMContentLoaded', function () {
         button.addEventListener('click', function () {
             switch (index) {
                 case 0:
-                    openInNewTab('projects/physicsEngine/physics.html'); // Replace with the actual page
+                    openInNewTab('physics.html'); // Replace with the actual page
                     break;
                 case 1:
-                    openInNewTab('projects/zombie/zombie.html');
+                    openInNewTab('zombie.html');
                     break;
                 case 2:
-                    openInNewTab('projects/renderer/renderer.html');
+                    openInNewTab('renderer.html');
                     break;
                 case 3:
-                    openInNewTab('projects/shepherds/shepherds.html');
+                    openInNewTab('shepherds.html');
                     break;
                 case 4:
-                    openInNewTab('projects/hunter/hunter.html');
+                    openInNewTab('hunter.html');
                     break;
                 case 5:
-                    openInNewTab('projects/nasa/nasa.html');
+                    openInNewTab('nasa.html');
                     break;
                 case 6:
-                    openInNewTab('projects/gym/gym.html');
+                    openInNewTab('gym.html');
                     break;
                 case 7:
-                    openInNewTab('projects/todo/todo.html');
+                    openInNewTab('todo.html');
                     break;
                 case 8:
-                    openInNewTab('projects/amazon/amazon.html');
+                    openInNewTab('amazon.html');
                     break;
                 default:
                     alert('Page not found!');

@@ -20,7 +20,7 @@ body {
 header {
   height: 100vh;
   padding: 32px 100px;
-  background-image: url(asset/images/pfp6.png);
+  background-image: url(pfp6.png);
   background-position: right;
   background-size: contain;
   background-repeat: no-repeat;
